@@ -1,0 +1,1001 @@
+usia,jenis_kelamin,gejala,kondisi,suhu_tubuh,batuk,sesak_napas,riwayat_penyakit,lainnya,tingkat_risiko
+32,Laki-laki,Nyeri Dada,Sakit Parah,38.8,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+21,Laki-laki,Demam,Sakit Parah,39.0,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+53,Laki-laki,Mual,Kelelahan,37.8,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+66,Laki-laki,Demam,Sakit Ringan,37.5,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+28,Perempuan,Tidak Ada,Sehat,37.2,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+26,Laki-laki,Tidak Ada,Sehat,37.0,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+30,Perempuan,Demam,Kelelahan,37.9,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+39,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+59,Laki-laki,Demam,Kelelahan,37.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+81,Perempuan,Demam,Sakit Parah,38.8,Tidak,Tidak,Hipertensi,Dehidrasi,Tinggi
+64,Laki-laki,Pusing,Kelelahan,38.3,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+26,Perempuan,Demam,Kelelahan,38.5,Ya,Tidak,Asma,Dehidrasi,Sedang
+61,Laki-laki,Demam,Sakit Parah,40.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+56,Laki-laki,Demam,Kelelahan,38.3,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+20,Laki-laki,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+48,Laki-laki,Nyeri Dada,Sakit Parah,40.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+78,Laki-laki,Demam,Kelelahan,37.7,Tidak,Tidak,Jantung,Dehidrasi,Sedang
+65,Perempuan,Demam,Kelelahan,37.6,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+18,Laki-laki,Demam,Sakit Parah,38.6,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+53,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+49,Perempuan,Demam,Sakit Parah,39.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+24,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+49,Laki-laki,Pusing,Kelelahan,37.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+24,Laki-laki,Tidak Ada,Sehat,37.5,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+70,Perempuan,Tidak Ada,Sehat,36.7,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+66,Laki-laki,Tidak Ada,Kelelahan,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+54,Perempuan,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+37,Laki-laki,Pusing,Sakit Ringan,38.0,Ya,Tidak,Asma,Dehidrasi,Sedang
+82,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+26,Laki-laki,Demam,Kelelahan,38.1,Ya,Tidak,Jantung,Dehidrasi,Sedang
+84,Perempuan,Tidak Ada,Sehat,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+51,Perempuan,Pusing,Kelelahan,38.4,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+27,Laki-laki,Mual,Kelelahan,37.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+74,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Asma,Tidak Ada,Sedang
+56,Laki-laki,Nyeri Dada,Sakit Parah,38.8,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+44,Perempuan,Pusing,Kelelahan,38.0,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+23,Laki-laki,Tidak Ada,Sehat,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+74,Perempuan,Tidak Ada,Sehat,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+22,Perempuan,Nyeri Dada,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+49,Laki-laki,Tidak Ada,Sehat,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+48,Laki-laki,Tidak Ada,Sehat,37.5,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+40,Perempuan,Tidak Ada,Sehat,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+52,Laki-laki,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+46,Laki-laki,Pusing,Kelelahan,38.3,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+69,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+83,Perempuan,Pusing,Sakit Ringan,37.5,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+31,Perempuan,Mual,Kelelahan,38.5,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+23,Perempuan,Mual,Kelelahan,38.2,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+60,Perempuan,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+70,Perempuan,Demam,Sakit Parah,39.6,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+69,Laki-laki,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+77,Perempuan,Demam,Kelelahan,38.4,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+83,Perempuan,Pusing,Kelelahan,37.8,Ya,Tidak,Asma,Tidak Ada,Sedang
+49,Perempuan,Demam,Kelelahan,38.4,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+69,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+72,Laki-laki,Pusing,Kelelahan,37.6,Tidak,Tidak,Asma,Tidak Ada,Sedang
+77,Perempuan,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+75,Laki-laki,Demam,Sakit Ringan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+53,Perempuan,Pusing,Kelelahan,37.8,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+67,Laki-laki,Pusing,Sakit Ringan,38.0,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+67,Laki-laki,Mual,Sakit Ringan,37.5,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+46,Perempuan,Demam,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+34,Laki-laki,Tidak Ada,Sehat,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+72,Laki-laki,Mual,Sakit Ringan,37.8,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+53,Perempuan,Demam,Sakit Parah,39.8,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+23,Laki-laki,Nyeri Dada,Sakit Parah,38.9,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+45,Perempuan,Nyeri Dada,Sakit Parah,40.0,Tidak,Ya,Diabetes,Dehidrasi,Tinggi
+31,Laki-laki,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+68,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+56,Laki-laki,Demam,Sakit Parah,39.8,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+19,Perempuan,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+37,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+77,Perempuan,Mual,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+77,Perempuan,Mual,Sakit Ringan,38.0,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+53,Laki-laki,Demam,Kelelahan,37.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+75,Laki-laki,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+65,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+63,Perempuan,Nyeri Dada,Sakit Parah,39.0,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+45,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+30,Laki-laki,Mual,Kelelahan,38.2,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+55,Laki-laki,Demam,Sakit Parah,38.5,Tidak,Tidak,Diabetes,Dehidrasi,Tinggi
+74,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+32,Laki-laki,Tidak Ada,Sehat,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+37,Laki-laki,Demam,Sakit Parah,39.1,Tidak,Ya,Jantung,Dehidrasi,Tinggi
+75,Perempuan,Demam,Kelelahan,38.1,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+45,Perempuan,Nyeri Dada,Sakit Parah,38.7,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+78,Perempuan,Demam,Kelelahan,38.4,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+43,Perempuan,Nyeri Dada,Sakit Parah,39.2,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+39,Perempuan,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+33,Perempuan,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+74,Laki-laki,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+21,Laki-laki,Tidak Ada,Sehat,36.3,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+52,Laki-laki,Pusing,Sakit Ringan,37.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+29,Perempuan,Tidak Ada,Sehat,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+60,Perempuan,Tidak Ada,Sehat,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+76,Laki-laki,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+83,Laki-laki,Demam,Sakit Ringan,37.7,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+24,Laki-laki,Pusing,Sakit Ringan,38.4,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+38,Perempuan,Nyeri Dada,Sakit Parah,41.0,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+37,Perempuan,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+79,Perempuan,Pusing,Kelelahan,38.4,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+61,Perempuan,Pusing,Sakit Ringan,38.1,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+62,Perempuan,Demam,Kelelahan,37.8,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+47,Perempuan,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+67,Laki-laki,Mual,Kelelahan,38.1,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+19,Laki-laki,Demam,Sakit Parah,39.7,Tidak,Tidak,Hipertensi,Dehidrasi,Tinggi
+28,Perempuan,Demam,Sakit Ringan,37.8,Ya,Tidak,Jantung,Tidak Ada,Sedang
+48,Perempuan,Mual,Kelelahan,37.6,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+21,Laki-laki,Demam,Kelelahan,37.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+39,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+81,Laki-laki,Mual,Sakit Ringan,38.2,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+74,Perempuan,Tidak Ada,Kelelahan,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+76,Perempuan,Demam,Sakit Ringan,37.7,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+20,Perempuan,Tidak Ada,Sehat,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+81,Perempuan,Tidak Ada,Sehat,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+42,Perempuan,Tidak Ada,Sehat,37.0,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+30,Laki-laki,Mual,Kelelahan,38.2,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+40,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+39,Perempuan,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+61,Laki-laki,Tidak Ada,Sehat,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+68,Perempuan,Demam,Sakit Ringan,37.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+65,Laki-laki,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+46,Laki-laki,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+32,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+30,Laki-laki,Demam,Sakit Ringan,38.2,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+30,Perempuan,Mual,Kelelahan,38.2,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+64,Laki-laki,Tidak Ada,Kelelahan,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+25,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Asma,Tidak Ada,Rendah
+29,Laki-laki,Nyeri Dada,Sakit Parah,40.5,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+26,Laki-laki,Mual,Kelelahan,38.3,Ya,Tidak,Diabetes,Tidak Ada,Sedang
+50,Laki-laki,Nyeri Dada,Sakit Parah,39.4,Tidak,Ya,Jantung,Lemas,Tinggi
+40,Perempuan,Mual,Sakit Ringan,38.2,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+75,Laki-laki,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+76,Laki-laki,Demam,Sakit Ringan,38.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+28,Perempuan,Mual,Sakit Ringan,38.1,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+82,Perempuan,Tidak Ada,Sehat,36.1,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+73,Perempuan,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+71,Laki-laki,Pusing,Sakit Ringan,38.5,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+29,Perempuan,Tidak Ada,Sehat,36.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+60,Laki-laki,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+24,Perempuan,Pusing,Sakit Ringan,37.7,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+65,Laki-laki,Tidak Ada,Sehat,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+52,Laki-laki,Pusing,Kelelahan,37.8,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+26,Laki-laki,Demam,Sakit Parah,39.8,Tidak,Tidak,Asma,Dehidrasi,Tinggi
+61,Laki-laki,Tidak Ada,Sehat,36.6,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+24,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+74,Perempuan,Mual,Kelelahan,38.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+54,Perempuan,Pusing,Kelelahan,38.5,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+45,Laki-laki,Demam,Sakit Parah,39.7,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+66,Laki-laki,Tidak Ada,Sehat,36.8,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+68,Laki-laki,Demam,Sakit Parah,39.3,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+55,Laki-laki,Demam,Sakit Parah,40.9,Tidak,Tidak,Asma,Lemas,Tinggi
+73,Laki-laki,Demam,Sakit Ringan,37.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+60,Laki-laki,Mual,Sakit Ringan,37.7,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+31,Laki-laki,Nyeri Dada,Sakit Parah,40.4,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+77,Perempuan,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+58,Laki-laki,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+25,Perempuan,Pusing,Sakit Ringan,37.6,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+77,Laki-laki,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+78,Laki-laki,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+28,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+64,Perempuan,Tidak Ada,Sehat,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+60,Laki-laki,Mual,Kelelahan,37.8,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+62,Perempuan,Mual,Kelelahan,38.1,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+34,Laki-laki,Pusing,Kelelahan,37.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+42,Laki-laki,Demam,Kelelahan,38.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+66,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+74,Laki-laki,Demam,Sakit Ringan,37.9,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+48,Perempuan,Tidak Ada,Sehat,37.4,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+65,Perempuan,Pusing,Kelelahan,38.0,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+24,Perempuan,Nyeri Dada,Sakit Parah,40.6,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+38,Perempuan,Tidak Ada,Sehat,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+46,Perempuan,Pusing,Sakit Ringan,37.9,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+65,Laki-laki,Tidak Ada,Kelelahan,36.0,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+36,Laki-laki,Mual,Sakit Ringan,38.3,Ya,Tidak,Jantung,Tidak Ada,Sedang
+20,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+32,Perempuan,Pusing,Sakit Ringan,38.1,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+20,Laki-laki,Demam,Sakit Parah,39.4,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+85,Perempuan,Mual,Kelelahan,38.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+67,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+48,Laki-laki,Demam,Sakit Ringan,37.5,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+79,Laki-laki,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+22,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+57,Perempuan,Mual,Kelelahan,38.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+60,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+67,Perempuan,Pusing,Sakit Ringan,38.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+73,Laki-laki,Demam,Sakit Parah,40.2,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+39,Perempuan,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+73,Perempuan,Demam,Sakit Parah,40.2,Tidak,Tidak,Diabetes,Lemas,Tinggi
+21,Laki-laki,Demam,Kelelahan,37.6,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+67,Laki-laki,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+74,Laki-laki,Pusing,Kelelahan,38.1,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+81,Perempuan,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+45,Perempuan,Mual,Kelelahan,37.6,Ya,Tidak,Asma,Dehidrasi,Sedang
+29,Perempuan,Pusing,Sakit Ringan,37.8,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+83,Laki-laki,Nyeri Dada,Sakit Parah,40.5,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+77,Laki-laki,Demam,Sakit Ringan,38.5,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+27,Laki-laki,Pusing,Sakit Ringan,38.2,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+73,Laki-laki,Mual,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+50,Laki-laki,Nyeri Dada,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+39,Perempuan,Tidak Ada,Sehat,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+28,Laki-laki,Demam,Sakit Ringan,37.7,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+55,Perempuan,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+76,Laki-laki,Demam,Sakit Ringan,38.0,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+58,Perempuan,Pusing,Sakit Ringan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+52,Perempuan,Pusing,Sakit Ringan,37.9,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+58,Laki-laki,Mual,Sakit Ringan,38.0,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+68,Perempuan,Demam,Sakit Ringan,37.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+19,Laki-laki,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+64,Laki-laki,Nyeri Dada,Sakit Parah,39.9,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+53,Laki-laki,Pusing,Sakit Ringan,38.5,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+82,Laki-laki,Pusing,Sakit Ringan,38.0,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+58,Laki-laki,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+82,Perempuan,Tidak Ada,Kelelahan,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+60,Laki-laki,Tidak Ada,Sehat,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+78,Perempuan,Tidak Ada,Sehat,37.5,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+24,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+36,Laki-laki,Demam,Sakit Parah,38.5,Tidak,Tidak,Jantung,Lemas,Tinggi
+70,Laki-laki,Tidak Ada,Sehat,36.6,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+35,Laki-laki,Mual,Kelelahan,37.9,Tidak,Tidak,Asma,Dehidrasi,Sedang
+51,Perempuan,Mual,Sakit Ringan,37.7,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+58,Perempuan,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+54,Laki-laki,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+62,Laki-laki,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+74,Perempuan,Tidak Ada,Kelelahan,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+52,Laki-laki,Demam,Kelelahan,37.6,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+30,Perempuan,Tidak Ada,Sehat,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+18,Laki-laki,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+43,Perempuan,Tidak Ada,Sehat,36.5,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+47,Laki-laki,Tidak Ada,Sehat,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+22,Perempuan,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+22,Laki-laki,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+54,Perempuan,Mual,Sakit Ringan,38.4,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+60,Laki-laki,Tidak Ada,Sehat,37.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+61,Perempuan,Demam,Sakit Parah,40.6,Tidak,Tidak,Diabetes,Dehidrasi,Tinggi
+29,Perempuan,Nyeri Dada,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+67,Laki-laki,Mual,Kelelahan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+25,Laki-laki,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+33,Perempuan,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+37,Perempuan,Demam,Sakit Ringan,38.0,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+28,Perempuan,Tidak Ada,Sehat,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+25,Laki-laki,Demam,Kelelahan,38.0,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+29,Perempuan,Demam,Kelelahan,38.0,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+20,Perempuan,Mual,Sakit Ringan,37.6,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+26,Perempuan,Tidak Ada,Kelelahan,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+65,Perempuan,Demam,Kelelahan,37.6,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+40,Perempuan,Mual,Kelelahan,37.5,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+66,Laki-laki,Pusing,Kelelahan,38.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+48,Laki-laki,Pusing,Kelelahan,38.2,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+74,Laki-laki,Tidak Ada,Sehat,36.8,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+82,Perempuan,Pusing,Sakit Ringan,38.1,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+84,Laki-laki,Demam,Kelelahan,38.1,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+24,Perempuan,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+71,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+48,Laki-laki,Tidak Ada,Sehat,36.5,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+70,Perempuan,Mual,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+42,Laki-laki,Tidak Ada,Sehat,36.4,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+42,Laki-laki,Pusing,Kelelahan,38.5,Ya,Tidak,Jantung,Tidak Ada,Sedang
+79,Laki-laki,Mual,Sakit Ringan,37.7,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+63,Perempuan,Mual,Sakit Ringan,37.6,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+58,Perempuan,Tidak Ada,Sehat,36.1,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+51,Perempuan,Mual,Kelelahan,38.1,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+80,Perempuan,Pusing,Sakit Ringan,37.6,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+27,Laki-laki,Tidak Ada,Sehat,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+26,Laki-laki,Demam,Sakit Ringan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+18,Perempuan,Demam,Kelelahan,38.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+31,Laki-laki,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+63,Perempuan,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+49,Laki-laki,Nyeri Dada,Sakit Parah,41.0,Tidak,Ya,Diabetes,Dehidrasi,Tinggi
+66,Perempuan,Demam,Sakit Parah,38.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+30,Laki-laki,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+52,Laki-laki,Pusing,Kelelahan,38.0,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+44,Laki-laki,Demam,Kelelahan,37.6,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+60,Perempuan,Tidak Ada,Sehat,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+82,Perempuan,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+68,Perempuan,Tidak Ada,Kelelahan,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+47,Perempuan,Demam,Sakit Parah,40.0,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+49,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+67,Perempuan,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+64,Perempuan,Pusing,Sakit Ringan,38.1,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+63,Laki-laki,Tidak Ada,Sehat,36.9,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+55,Perempuan,Tidak Ada,Sehat,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+84,Laki-laki,Pusing,Kelelahan,37.8,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+53,Perempuan,Demam,Sakit Ringan,38.4,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+31,Laki-laki,Mual,Sakit Ringan,38.1,Tidak,Tidak,Jantung,Dehidrasi,Sedang
+35,Perempuan,Mual,Sakit Ringan,37.8,Tidak,Tidak,Jantung,Dehidrasi,Sedang
+49,Perempuan,Demam,Kelelahan,37.6,Ya,Tidak,Diabetes,Tidak Ada,Sedang
+77,Laki-laki,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+81,Laki-laki,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+66,Laki-laki,Demam,Sakit Ringan,38.0,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+28,Laki-laki,Demam,Kelelahan,38.1,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+73,Laki-laki,Mual,Kelelahan,38.0,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+77,Laki-laki,Nyeri Dada,Sakit Parah,39.5,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+62,Perempuan,Mual,Kelelahan,37.8,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+26,Perempuan,Nyeri Dada,Sakit Parah,39.4,Tidak,Ya,Hipertensi,Lemas,Tinggi
+84,Laki-laki,Demam,Sakit Ringan,38.0,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+73,Perempuan,Demam,Sakit Parah,40.0,Tidak,Ya,Hipertensi,Lemas,Tinggi
+44,Perempuan,Nyeri Dada,Sakit Parah,38.8,Tidak,Ya,Diabetes,Dehidrasi,Tinggi
+43,Perempuan,Demam,Sakit Ringan,38.5,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+32,Perempuan,Demam,Sakit Parah,40.2,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+58,Laki-laki,Mual,Sakit Ringan,37.6,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+72,Laki-laki,Tidak Ada,Sehat,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+39,Perempuan,Tidak Ada,Sehat,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+63,Laki-laki,Mual,Sakit Ringan,38.1,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+74,Perempuan,Tidak Ada,Sehat,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+55,Laki-laki,Demam,Sakit Parah,39.6,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+52,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+45,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+22,Perempuan,Nyeri Dada,Sakit Parah,40.7,Tidak,Ya,Jantung,Lemas,Tinggi
+62,Perempuan,Demam,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+39,Perempuan,Pusing,Kelelahan,38.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+53,Laki-laki,Nyeri Dada,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+36,Perempuan,Nyeri Dada,Sakit Parah,40.5,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+65,Perempuan,Nyeri Dada,Sakit Parah,40.4,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+26,Perempuan,Mual,Sakit Ringan,37.8,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+61,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+33,Laki-laki,Tidak Ada,Sehat,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+34,Perempuan,Pusing,Sakit Ringan,38.2,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+24,Perempuan,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+29,Laki-laki,Demam,Sakit Parah,39.1,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+61,Laki-laki,Demam,Sakit Parah,38.7,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+31,Perempuan,Demam,Kelelahan,38.3,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+85,Laki-laki,Mual,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+29,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+72,Perempuan,Tidak Ada,Sehat,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+54,Laki-laki,Demam,Kelelahan,38.0,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+24,Laki-laki,Mual,Kelelahan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+67,Perempuan,Tidak Ada,Sehat,36.5,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+20,Laki-laki,Tidak Ada,Kelelahan,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+82,Perempuan,Demam,Kelelahan,38.2,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+28,Perempuan,Tidak Ada,Sehat,36.1,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+59,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+57,Perempuan,Demam,Sakit Parah,38.7,Tidak,Ya,Diabetes,Dehidrasi,Tinggi
+25,Perempuan,Nyeri Dada,Sakit Parah,38.5,Tidak,Ya,Hipertensi,Lemas,Tinggi
+81,Perempuan,Tidak Ada,Sehat,36.8,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+65,Laki-laki,Tidak Ada,Sehat,37.1,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+21,Perempuan,Nyeri Dada,Sakit Parah,40.3,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+83,Perempuan,Nyeri Dada,Sakit Parah,38.9,Tidak,Ya,Jantung,Lemas,Tinggi
+83,Laki-laki,Pusing,Sakit Ringan,38.0,Ya,Tidak,Jantung,Tidak Ada,Sedang
+71,Laki-laki,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+27,Perempuan,Nyeri Dada,Sakit Parah,39.1,Tidak,Ya,Hipertensi,Lemas,Tinggi
+77,Perempuan,Demam,Sakit Parah,39.6,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+56,Laki-laki,Demam,Kelelahan,38.3,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+18,Perempuan,Tidak Ada,Sehat,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+60,Laki-laki,Tidak Ada,Kelelahan,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+31,Laki-laki,Demam,Kelelahan,37.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+23,Laki-laki,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+76,Laki-laki,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+27,Laki-laki,Mual,Sakit Ringan,37.8,Tidak,Tidak,Asma,Dehidrasi,Sedang
+75,Perempuan,Nyeri Dada,Sakit Parah,40.4,Tidak,Ya,Jantung,Lemas,Tinggi
+39,Perempuan,Mual,Kelelahan,38.5,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+51,Laki-laki,Pusing,Kelelahan,38.2,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+29,Laki-laki,Nyeri Dada,Sakit Parah,39.2,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+75,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+19,Laki-laki,Demam,Sakit Parah,40.6,Tidak,Ya,Asma,Dehidrasi,Tinggi
+27,Laki-laki,Tidak Ada,Sehat,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+29,Perempuan,Demam,Sakit Parah,40.8,Tidak,Tidak,Jantung,Dehidrasi,Tinggi
+21,Perempuan,Mual,Sakit Ringan,37.7,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+49,Perempuan,Pusing,Sakit Ringan,37.6,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+85,Laki-laki,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+63,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+67,Perempuan,Pusing,Sakit Ringan,38.4,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+47,Laki-laki,Pusing,Kelelahan,38.3,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+40,Laki-laki,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+21,Perempuan,Demam,Sakit Ringan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+80,Laki-laki,Mual,Kelelahan,38.0,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+61,Laki-laki,Pusing,Kelelahan,37.5,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+65,Perempuan,Demam,Sakit Ringan,38.5,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+40,Perempuan,Demam,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+18,Perempuan,Demam,Sakit Ringan,37.7,Ya,Tidak,Diabetes,Tidak Ada,Sedang
+81,Laki-laki,Demam,Kelelahan,37.8,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+19,Perempuan,Pusing,Kelelahan,38.3,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+71,Laki-laki,Mual,Kelelahan,38.0,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+75,Laki-laki,Nyeri Dada,Sakit Parah,39.2,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+39,Perempuan,Tidak Ada,Sehat,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+61,Perempuan,Tidak Ada,Kelelahan,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+38,Laki-laki,Demam,Sakit Parah,40.2,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+48,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+24,Perempuan,Tidak Ada,Kelelahan,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+43,Laki-laki,Mual,Kelelahan,37.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+80,Perempuan,Demam,Sakit Parah,40.7,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+23,Perempuan,Tidak Ada,Sehat,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+37,Laki-laki,Demam,Kelelahan,38.5,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+84,Perempuan,Tidak Ada,Sehat,37.4,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+78,Perempuan,Tidak Ada,Sehat,36.1,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+33,Perempuan,Tidak Ada,Sehat,36.3,Tidak,Tidak,Asma,Tidak Ada,Rendah
+34,Laki-laki,Demam,Kelelahan,38.5,Tidak,Tidak,Asma,Dehidrasi,Sedang
+26,Laki-laki,Pusing,Sakit Ringan,37.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+71,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+31,Laki-laki,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+51,Perempuan,Pusing,Sakit Ringan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+68,Perempuan,Pusing,Sakit Ringan,37.8,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+57,Perempuan,Tidak Ada,Sehat,37.3,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+35,Perempuan,Tidak Ada,Kelelahan,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+71,Laki-laki,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+84,Perempuan,Demam,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+40,Laki-laki,Nyeri Dada,Sakit Parah,38.6,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+53,Perempuan,Tidak Ada,Sehat,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+21,Laki-laki,Demam,Sakit Parah,40.7,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+51,Laki-laki,Nyeri Dada,Sakit Parah,39.9,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+44,Perempuan,Tidak Ada,Sehat,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+78,Laki-laki,Demam,Sakit Parah,39.1,Tidak,Tidak,Hipertensi,Dehidrasi,Tinggi
+66,Perempuan,Demam,Sakit Ringan,38.0,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+83,Perempuan,Pusing,Sakit Ringan,38.2,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+59,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+42,Laki-laki,Demam,Sakit Parah,40.6,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+21,Perempuan,Demam,Kelelahan,37.9,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+46,Perempuan,Mual,Kelelahan,38.3,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+34,Perempuan,Tidak Ada,Kelelahan,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+29,Laki-laki,Mual,Sakit Ringan,38.3,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+77,Laki-laki,Mual,Kelelahan,38.4,Ya,Tidak,Jantung,Tidak Ada,Sedang
+66,Perempuan,Demam,Sakit Parah,41.0,Tidak,Tidak,Jantung,Dehidrasi,Tinggi
+36,Perempuan,Nyeri Dada,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+18,Perempuan,Demam,Sakit Parah,40.4,Tidak,Ya,Diabetes,Lemas,Tinggi
+73,Perempuan,Demam,Kelelahan,37.5,Tidak,Tidak,Asma,Tidak Ada,Sedang
+59,Laki-laki,Tidak Ada,Sehat,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+62,Perempuan,Mual,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+84,Perempuan,Demam,Sakit Parah,41.0,Tidak,Tidak,Hipertensi,Lemas,Tinggi
+39,Perempuan,Tidak Ada,Sehat,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+20,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+50,Laki-laki,Nyeri Dada,Sakit Parah,40.6,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+74,Perempuan,Tidak Ada,Sehat,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+19,Perempuan,Mual,Kelelahan,38.1,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+54,Laki-laki,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+84,Laki-laki,Nyeri Dada,Sakit Parah,39.9,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+48,Laki-laki,Demam,Sakit Parah,39.9,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+83,Laki-laki,Mual,Sakit Ringan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+30,Laki-laki,Demam,Sakit Ringan,38.2,Ya,Tidak,Jantung,Tidak Ada,Sedang
+23,Laki-laki,Demam,Sakit Parah,39.4,Tidak,Tidak,Hipertensi,Lemas,Tinggi
+65,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+67,Perempuan,Tidak Ada,Sehat,37.2,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+34,Laki-laki,Demam,Sakit Parah,40.8,Tidak,Tidak,Diabetes,Lemas,Tinggi
+66,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+79,Perempuan,Demam,Sakit Parah,39.2,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+61,Laki-laki,Pusing,Sakit Ringan,38.2,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+38,Perempuan,Nyeri Dada,Sakit Parah,39.7,Tidak,Ya,Jantung,Dehidrasi,Tinggi
+24,Laki-laki,Tidak Ada,Sehat,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+76,Perempuan,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+58,Laki-laki,Nyeri Dada,Sakit Parah,39.5,Tidak,Ya,Hipertensi,Lemas,Tinggi
+56,Laki-laki,Mual,Kelelahan,38.3,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+64,Perempuan,Demam,Sakit Ringan,37.8,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+23,Laki-laki,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+31,Perempuan,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+45,Perempuan,Demam,Kelelahan,38.3,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+76,Laki-laki,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+79,Laki-laki,Tidak Ada,Sehat,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+67,Perempuan,Tidak Ada,Sehat,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+53,Perempuan,Demam,Sakit Ringan,37.6,Tidak,Tidak,Asma,Dehidrasi,Sedang
+45,Laki-laki,Tidak Ada,Sehat,36.3,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+40,Perempuan,Demam,Sakit Ringan,38.1,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+19,Laki-laki,Tidak Ada,Sehat,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+52,Laki-laki,Demam,Sakit Parah,38.7,Tidak,Ya,Hipertensi,Lemas,Tinggi
+63,Perempuan,Tidak Ada,Sehat,36.2,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+67,Laki-laki,Tidak Ada,Sehat,36.8,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+66,Perempuan,Tidak Ada,Sehat,36.6,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+19,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+46,Perempuan,Tidak Ada,Sehat,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+55,Perempuan,Nyeri Dada,Sakit Parah,38.9,Tidak,Ya,Hipertensi,Lemas,Tinggi
+72,Perempuan,Mual,Sakit Ringan,37.8,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+37,Perempuan,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+80,Perempuan,Demam,Kelelahan,38.5,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+69,Laki-laki,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+64,Perempuan,Pusing,Kelelahan,38.5,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+48,Laki-laki,Mual,Kelelahan,38.4,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+21,Perempuan,Mual,Kelelahan,37.8,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+39,Laki-laki,Tidak Ada,Sehat,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+72,Laki-laki,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+27,Laki-laki,Nyeri Dada,Sakit Parah,38.7,Tidak,Ya,Hipertensi,Lemas,Tinggi
+47,Perempuan,Demam,Sakit Ringan,37.8,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+26,Laki-laki,Tidak Ada,Sehat,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+55,Perempuan,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+68,Laki-laki,Demam,Sakit Parah,39.5,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+65,Laki-laki,Demam,Sakit Parah,38.5,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+44,Perempuan,Tidak Ada,Sehat,36.3,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+38,Laki-laki,Nyeri Dada,Sakit Parah,39.0,Tidak,Ya,Diabetes,Lemas,Tinggi
+55,Laki-laki,Pusing,Sakit Ringan,38.5,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+54,Laki-laki,Demam,Sakit Ringan,38.1,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+58,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+53,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+75,Perempuan,Nyeri Dada,Sakit Parah,40.1,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+43,Perempuan,Tidak Ada,Sehat,37.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+82,Laki-laki,Tidak Ada,Sehat,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+22,Perempuan,Mual,Sakit Ringan,38.3,Ya,Tidak,Asma,Dehidrasi,Sedang
+35,Perempuan,Demam,Kelelahan,37.5,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+75,Laki-laki,Tidak Ada,Sehat,36.3,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+79,Perempuan,Pusing,Kelelahan,37.8,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+67,Perempuan,Nyeri Dada,Sakit Parah,40.1,Tidak,Ya,Jantung,Dehidrasi,Tinggi
+40,Perempuan,Tidak Ada,Sehat,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+84,Perempuan,Mual,Sakit Ringan,37.9,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+82,Laki-laki,Pusing,Kelelahan,37.8,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+33,Laki-laki,Demam,Sakit Parah,40.2,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+70,Laki-laki,Demam,Kelelahan,37.6,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+39,Perempuan,Demam,Kelelahan,38.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+45,Perempuan,Demam,Sakit Ringan,37.7,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+83,Perempuan,Tidak Ada,Sehat,36.3,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+47,Perempuan,Pusing,Sakit Ringan,38.4,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+78,Laki-laki,Tidak Ada,Sehat,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+79,Laki-laki,Demam,Sakit Parah,40.8,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+23,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+62,Laki-laki,Tidak Ada,Sehat,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+54,Perempuan,Tidak Ada,Sehat,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+84,Laki-laki,Mual,Sakit Ringan,38.3,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+72,Perempuan,Pusing,Sakit Ringan,38.1,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+40,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+68,Laki-laki,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+38,Laki-laki,Pusing,Kelelahan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+29,Laki-laki,Demam,Sakit Parah,39.2,Tidak,Ya,Hipertensi,Lemas,Tinggi
+67,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+40,Perempuan,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+42,Laki-laki,Tidak Ada,Sehat,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+22,Perempuan,Demam,Sakit Parah,41.0,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+69,Laki-laki,Demam,Sakit Parah,38.7,Tidak,Tidak,Hipertensi,Dehidrasi,Tinggi
+53,Laki-laki,Tidak Ada,Sehat,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+51,Laki-laki,Nyeri Dada,Sakit Parah,39.2,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+74,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+76,Laki-laki,Demam,Kelelahan,38.3,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+70,Perempuan,Tidak Ada,Sehat,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+54,Laki-laki,Mual,Kelelahan,38.1,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+45,Perempuan,Tidak Ada,Sehat,36.3,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+81,Laki-laki,Demam,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+31,Laki-laki,Tidak Ada,Sehat,37.4,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+23,Perempuan,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+80,Laki-laki,Pusing,Kelelahan,37.7,Tidak,Tidak,Jantung,Dehidrasi,Sedang
+22,Perempuan,Demam,Sakit Parah,40.9,Tidak,Tidak,Hipertensi,Lemas,Tinggi
+19,Laki-laki,Demam,Kelelahan,38.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+52,Perempuan,Demam,Sakit Parah,39.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+69,Perempuan,Tidak Ada,Sehat,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+30,Perempuan,Tidak Ada,Sehat,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+36,Laki-laki,Mual,Sakit Ringan,37.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+24,Perempuan,Mual,Kelelahan,37.8,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+64,Perempuan,Mual,Kelelahan,37.5,Ya,Tidak,Jantung,Tidak Ada,Sedang
+54,Perempuan,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+28,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+61,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+28,Laki-laki,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+68,Perempuan,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+70,Laki-laki,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+28,Laki-laki,Nyeri Dada,Sakit Parah,40.7,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+85,Laki-laki,Demam,Sakit Parah,40.8,Tidak,Tidak,Hipertensi,Lemas,Tinggi
+49,Perempuan,Demam,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+78,Perempuan,Demam,Kelelahan,37.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+85,Perempuan,Mual,Sakit Ringan,37.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+37,Perempuan,Tidak Ada,Sehat,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+62,Perempuan,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+56,Laki-laki,Pusing,Sakit Ringan,38.3,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+68,Laki-laki,Pusing,Sakit Ringan,37.9,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+84,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+42,Laki-laki,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+52,Perempuan,Nyeri Dada,Sakit Parah,39.8,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+52,Laki-laki,Pusing,Sakit Ringan,37.7,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+57,Perempuan,Tidak Ada,Kelelahan,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+28,Laki-laki,Nyeri Dada,Sakit Parah,39.7,Tidak,Ya,Diabetes,Dehidrasi,Tinggi
+19,Laki-laki,Demam,Kelelahan,38.5,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+76,Laki-laki,Mual,Sakit Ringan,38.2,Ya,Tidak,Asma,Tidak Ada,Sedang
+84,Laki-laki,Nyeri Dada,Sakit Parah,40.7,Tidak,Ya,Hipertensi,Lemas,Tinggi
+73,Perempuan,Pusing,Kelelahan,37.9,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+37,Perempuan,Demam,Sakit Ringan,38.2,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+63,Laki-laki,Demam,Sakit Parah,39.1,Tidak,Tidak,Diabetes,Lemas,Tinggi
+20,Perempuan,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+74,Perempuan,Demam,Sakit Ringan,38.0,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+38,Laki-laki,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+76,Laki-laki,Tidak Ada,Sehat,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+64,Laki-laki,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+42,Perempuan,Pusing,Sakit Ringan,37.9,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+23,Laki-laki,Nyeri Dada,Sakit Parah,39.0,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+85,Perempuan,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+44,Perempuan,Demam,Sakit Ringan,38.1,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+25,Perempuan,Tidak Ada,Sehat,36.8,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+45,Laki-laki,Demam,Kelelahan,37.7,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+31,Perempuan,Demam,Kelelahan,37.6,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+38,Perempuan,Mual,Sakit Ringan,38.5,Tidak,Tidak,Jantung,Dehidrasi,Sedang
+48,Laki-laki,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+75,Perempuan,Nyeri Dada,Sakit Parah,39.2,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+18,Perempuan,Demam,Sakit Ringan,38.3,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+22,Perempuan,Mual,Kelelahan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+69,Laki-laki,Tidak Ada,Sehat,37.1,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+80,Laki-laki,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+28,Laki-laki,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+71,Laki-laki,Tidak Ada,Sehat,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+66,Laki-laki,Pusing,Kelelahan,37.6,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+75,Laki-laki,Mual,Kelelahan,37.6,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+51,Laki-laki,Tidak Ada,Sehat,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+79,Laki-laki,Nyeri Dada,Sakit Parah,40.0,Tidak,Ya,Hipertensi,Lemas,Tinggi
+52,Perempuan,Demam,Sakit Parah,40.2,Tidak,Tidak,Jantung,Dehidrasi,Tinggi
+42,Perempuan,Tidak Ada,Sehat,36.5,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+62,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+43,Perempuan,Nyeri Dada,Sakit Parah,40.3,Tidak,Ya,Hipertensi,Dehidrasi,Tinggi
+19,Perempuan,Demam,Kelelahan,37.5,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+84,Perempuan,Tidak Ada,Sehat,36.8,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+66,Laki-laki,Pusing,Sakit Ringan,38.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+26,Perempuan,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+31,Laki-laki,Mual,Kelelahan,38.5,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+41,Laki-laki,Tidak Ada,Sehat,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+23,Laki-laki,Mual,Kelelahan,38.2,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+56,Laki-laki,Mual,Sakit Ringan,37.6,Ya,Tidak,Asma,Dehidrasi,Sedang
+46,Laki-laki,Nyeri Dada,Sakit Parah,40.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+37,Perempuan,Demam,Kelelahan,38.0,Ya,Tidak,Jantung,Tidak Ada,Sedang
+35,Perempuan,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+36,Laki-laki,Tidak Ada,Sehat,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+41,Perempuan,Demam,Sakit Parah,39.3,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+74,Perempuan,Demam,Sakit Parah,38.6,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+47,Laki-laki,Demam,Sakit Ringan,38.0,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+67,Perempuan,Mual,Kelelahan,37.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+43,Laki-laki,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+59,Perempuan,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+58,Perempuan,Demam,Kelelahan,38.0,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+76,Laki-laki,Demam,Kelelahan,38.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+42,Perempuan,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+77,Laki-laki,Nyeri Dada,Sakit Parah,39.8,Tidak,Ya,Hipertensi,Dehidrasi,Tinggi
+29,Laki-laki,Tidak Ada,Sehat,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+68,Perempuan,Mual,Kelelahan,38.4,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+59,Laki-laki,Demam,Sakit Parah,39.6,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+83,Laki-laki,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+37,Laki-laki,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+57,Perempuan,Pusing,Kelelahan,37.7,Ya,Tidak,Asma,Dehidrasi,Sedang
+19,Perempuan,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+48,Laki-laki,Pusing,Kelelahan,37.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+24,Laki-laki,Demam,Sakit Parah,40.6,Tidak,Tidak,Hipertensi,Lemas,Tinggi
+24,Laki-laki,Tidak Ada,Sehat,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+76,Perempuan,Pusing,Sakit Ringan,37.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+55,Perempuan,Demam,Kelelahan,38.0,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+31,Laki-laki,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+72,Perempuan,Tidak Ada,Sehat,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+81,Perempuan,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+42,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+71,Perempuan,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+19,Laki-laki,Demam,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+60,Perempuan,Tidak Ada,Sehat,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+42,Perempuan,Demam,Kelelahan,38.0,Ya,Tidak,Jantung,Dehidrasi,Sedang
+37,Perempuan,Demam,Sakit Ringan,38.3,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+58,Laki-laki,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+26,Laki-laki,Tidak Ada,Sehat,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+67,Laki-laki,Tidak Ada,Kelelahan,36.9,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+22,Perempuan,Pusing,Sakit Ringan,38.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+32,Perempuan,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+82,Laki-laki,Demam,Sakit Parah,39.4,Tidak,Tidak,Jantung,Dehidrasi,Tinggi
+36,Laki-laki,Tidak Ada,Sehat,37.2,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+44,Laki-laki,Demam,Kelelahan,37.5,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+77,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+57,Laki-laki,Demam,Sakit Ringan,37.8,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+37,Laki-laki,Tidak Ada,Sehat,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+44,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+49,Laki-laki,Pusing,Kelelahan,37.9,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+31,Perempuan,Demam,Sakit Parah,40.0,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+60,Laki-laki,Demam,Sakit Ringan,38.5,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+77,Laki-laki,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+78,Laki-laki,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+64,Perempuan,Mual,Sakit Ringan,38.4,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+26,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+62,Laki-laki,Tidak Ada,Sehat,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+59,Laki-laki,Demam,Kelelahan,37.9,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+67,Laki-laki,Demam,Sakit Ringan,38.3,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+40,Laki-laki,Tidak Ada,Sehat,37.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+77,Perempuan,Nyeri Dada,Sakit Parah,40.9,Tidak,Ya,Diabetes,Dehidrasi,Tinggi
+59,Perempuan,Pusing,Kelelahan,37.6,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+55,Perempuan,Demam,Sakit Ringan,38.4,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+62,Laki-laki,Pusing,Sakit Ringan,38.3,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+18,Perempuan,Demam,Sakit Parah,39.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+69,Perempuan,Demam,Sakit Parah,38.8,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+37,Perempuan,Nyeri Dada,Sakit Parah,38.7,Tidak,Ya,Hipertensi,Dehidrasi,Tinggi
+73,Laki-laki,Demam,Sakit Ringan,38.0,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+83,Perempuan,Demam,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+82,Perempuan,Demam,Sakit Ringan,38.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+79,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+77,Laki-laki,Demam,Kelelahan,38.1,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+61,Laki-laki,Mual,Sakit Ringan,38.2,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+39,Laki-laki,Pusing,Sakit Ringan,38.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+24,Perempuan,Mual,Kelelahan,37.6,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+53,Perempuan,Nyeri Dada,Sakit Parah,38.9,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+40,Perempuan,Nyeri Dada,Sakit Parah,39.8,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+36,Laki-laki,Demam,Sakit Ringan,37.9,Ya,Tidak,Diabetes,Tidak Ada,Sedang
+62,Laki-laki,Demam,Sakit Parah,38.9,Tidak,Tidak,Diabetes,Dehidrasi,Tinggi
+78,Laki-laki,Pusing,Sakit Ringan,37.6,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+66,Perempuan,Demam,Sakit Parah,40.8,Tidak,Tidak,Hipertensi,Dehidrasi,Tinggi
+60,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+77,Laki-laki,Nyeri Dada,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+19,Laki-laki,Nyeri Dada,Sakit Parah,39.6,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+42,Laki-laki,Tidak Ada,Sehat,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+33,Laki-laki,Pusing,Kelelahan,38.3,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+55,Perempuan,Demam,Sakit Ringan,38.5,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+38,Laki-laki,Mual,Sakit Ringan,38.5,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+26,Perempuan,Pusing,Kelelahan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+31,Perempuan,Demam,Sakit Parah,39.9,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+81,Laki-laki,Nyeri Dada,Sakit Parah,39.5,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+18,Perempuan,Tidak Ada,Sehat,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+46,Laki-laki,Tidak Ada,Sehat,36.6,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+63,Perempuan,Tidak Ada,Sehat,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+64,Perempuan,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+40,Laki-laki,Demam,Kelelahan,37.9,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+28,Perempuan,Nyeri Dada,Sakit Parah,40.3,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+26,Perempuan,Tidak Ada,Sehat,36.7,Tidak,Tidak,Asma,Tidak Ada,Rendah
+22,Perempuan,Demam,Sakit Parah,38.8,Tidak,Ya,Diabetes,Lemas,Tinggi
+27,Laki-laki,Nyeri Dada,Sakit Parah,40.8,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+19,Laki-laki,Tidak Ada,Sehat,36.9,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+76,Laki-laki,Tidak Ada,Sehat,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+81,Laki-laki,Mual,Sakit Ringan,38.3,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+59,Laki-laki,Mual,Kelelahan,37.6,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+39,Perempuan,Demam,Sakit Parah,40.5,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+80,Laki-laki,Demam,Sakit Parah,40.1,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+34,Laki-laki,Demam,Kelelahan,37.7,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+81,Laki-laki,Pusing,Kelelahan,37.5,Ya,Tidak,Diabetes,Tidak Ada,Sedang
+64,Laki-laki,Pusing,Kelelahan,37.6,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+40,Laki-laki,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+44,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+23,Laki-laki,Demam,Sakit Parah,40.5,Tidak,Ya,Jantung,Lemas,Tinggi
+48,Perempuan,Demam,Sakit Parah,40.2,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+59,Laki-laki,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+46,Laki-laki,Tidak Ada,Sehat,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+45,Perempuan,Mual,Sakit Ringan,37.7,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+34,Laki-laki,Demam,Sakit Parah,40.6,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+61,Laki-laki,Tidak Ada,Sehat,37.3,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+47,Laki-laki,Tidak Ada,Sehat,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+78,Perempuan,Tidak Ada,Sehat,36.4,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+49,Perempuan,Tidak Ada,Sehat,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+18,Perempuan,Mual,Kelelahan,38.3,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+30,Perempuan,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+45,Laki-laki,Tidak Ada,Sehat,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+79,Perempuan,Mual,Sakit Ringan,38.1,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+41,Perempuan,Demam,Sakit Parah,40.1,Tidak,Tidak,Hipertensi,Lemas,Tinggi
+55,Perempuan,Tidak Ada,Sehat,37.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+28,Perempuan,Tidak Ada,Kelelahan,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+24,Laki-laki,Nyeri Dada,Sakit Parah,39.4,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+60,Laki-laki,Tidak Ada,Sehat,36.8,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+46,Perempuan,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+24,Laki-laki,Demam,Sakit Ringan,38.3,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+65,Laki-laki,Nyeri Dada,Sakit Parah,39.5,Tidak,Ya,Jantung,Lemas,Tinggi
+31,Laki-laki,Mual,Kelelahan,38.4,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+78,Perempuan,Nyeri Dada,Sakit Parah,39.0,Tidak,Ya,Hipertensi,Dehidrasi,Tinggi
+70,Perempuan,Mual,Sakit Ringan,38.2,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+57,Laki-laki,Pusing,Kelelahan,37.8,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+76,Laki-laki,Demam,Kelelahan,37.7,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+48,Laki-laki,Nyeri Dada,Sakit Parah,39.2,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+58,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+33,Laki-laki,Demam,Sakit Parah,39.6,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+82,Perempuan,Tidak Ada,Sehat,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+74,Perempuan,Tidak Ada,Sehat,37.0,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+32,Perempuan,Pusing,Sakit Ringan,37.9,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+53,Laki-laki,Demam,Kelelahan,38.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+80,Perempuan,Demam,Sakit Parah,40.2,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+65,Perempuan,Pusing,Kelelahan,38.5,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+74,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+35,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+26,Perempuan,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+40,Perempuan,Demam,Sakit Parah,39.0,Tidak,Tidak,Diabetes,Dehidrasi,Tinggi
+23,Perempuan,Pusing,Kelelahan,38.0,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+56,Perempuan,Pusing,Kelelahan,37.7,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+81,Laki-laki,Demam,Sakit Ringan,37.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+65,Laki-laki,Nyeri Dada,Sakit Parah,39.3,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+24,Perempuan,Tidak Ada,Sehat,36.5,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+55,Perempuan,Pusing,Kelelahan,38.3,Ya,Tidak,Jantung,Dehidrasi,Sedang
+58,Perempuan,Pusing,Sakit Ringan,38.0,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+84,Perempuan,Pusing,Kelelahan,38.4,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+42,Laki-laki,Nyeri Dada,Sakit Parah,38.8,Tidak,Ya,Jantung,Dehidrasi,Tinggi
+57,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+40,Perempuan,Demam,Kelelahan,38.4,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+34,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+27,Laki-laki,Nyeri Dada,Sakit Parah,38.8,Tidak,Ya,Diabetes,Lemas,Tinggi
+50,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+44,Laki-laki,Demam,Sakit Parah,40.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+38,Laki-laki,Tidak Ada,Sehat,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+85,Laki-laki,Nyeri Dada,Sakit Parah,40.4,Tidak,Ya,Asma,Lemas,Tinggi
+82,Perempuan,Mual,Kelelahan,38.5,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+45,Laki-laki,Mual,Kelelahan,38.0,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+23,Laki-laki,Demam,Sakit Ringan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+70,Perempuan,Tidak Ada,Kelelahan,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+65,Laki-laki,Tidak Ada,Kelelahan,36.0,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+74,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+39,Laki-laki,Pusing,Sakit Ringan,38.3,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+81,Perempuan,Mual,Sakit Ringan,38.3,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+80,Perempuan,Nyeri Dada,Sakit Parah,39.7,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+30,Laki-laki,Demam,Sakit Parah,38.9,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+30,Laki-laki,Demam,Sakit Ringan,38.0,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+82,Perempuan,Mual,Kelelahan,37.5,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+75,Perempuan,Demam,Sakit Parah,38.9,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+73,Laki-laki,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+78,Perempuan,Demam,Sakit Parah,39.2,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+59,Laki-laki,Tidak Ada,Kelelahan,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+21,Perempuan,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+62,Laki-laki,Tidak Ada,Sehat,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+26,Perempuan,Demam,Sakit Ringan,37.5,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+20,Perempuan,Mual,Kelelahan,37.9,Ya,Tidak,Asma,Tidak Ada,Sedang
+61,Perempuan,Mual,Sakit Ringan,38.1,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+27,Laki-laki,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+46,Laki-laki,Mual,Sakit Ringan,37.8,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+27,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+43,Perempuan,Pusing,Kelelahan,38.3,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+45,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+25,Laki-laki,Demam,Sakit Parah,40.2,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+58,Laki-laki,Mual,Kelelahan,37.8,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+48,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+77,Perempuan,Tidak Ada,Sehat,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+43,Laki-laki,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+40,Laki-laki,Nyeri Dada,Sakit Parah,40.6,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+26,Perempuan,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+35,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+81,Laki-laki,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+67,Laki-laki,Demam,Sakit Parah,39.0,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+50,Laki-laki,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+72,Perempuan,Tidak Ada,Sehat,37.0,Tidak,Tidak,Asma,Tidak Ada,Sedang
+64,Perempuan,Nyeri Dada,Sakit Parah,40.9,Tidak,Ya,Diabetes,Lemas,Tinggi
+50,Perempuan,Demam,Kelelahan,38.3,Ya,Tidak,Asma,Dehidrasi,Sedang
+67,Laki-laki,Tidak Ada,Kelelahan,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+56,Laki-laki,Mual,Kelelahan,38.4,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+22,Perempuan,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+70,Perempuan,Tidak Ada,Sehat,37.1,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+51,Laki-laki,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+76,Laki-laki,Nyeri Dada,Sakit Parah,39.6,Tidak,Ya,Hipertensi,Dehidrasi,Tinggi
+43,Perempuan,Nyeri Dada,Sakit Parah,39.8,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+75,Perempuan,Demam,Sakit Parah,40.0,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+28,Perempuan,Pusing,Kelelahan,38.3,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+29,Perempuan,Demam,Sakit Parah,39.5,Tidak,Tidak,Hipertensi,Lemas,Tinggi
+29,Perempuan,Demam,Sakit Parah,39.8,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+46,Laki-laki,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+81,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+42,Perempuan,Nyeri Dada,Sakit Parah,40.9,Tidak,Ya,Diabetes,Lemas,Tinggi
+65,Perempuan,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+45,Perempuan,Pusing,Kelelahan,37.6,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+78,Perempuan,Tidak Ada,Sehat,37.5,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+18,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+34,Laki-laki,Pusing,Sakit Ringan,38.4,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+85,Perempuan,Demam,Sakit Parah,38.8,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+54,Perempuan,Mual,Kelelahan,37.8,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+74,Laki-laki,Nyeri Dada,Sakit Parah,39.7,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+32,Perempuan,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+76,Perempuan,Nyeri Dada,Sakit Parah,39.4,Tidak,Ya,Hipertensi,Lemas,Tinggi
+39,Perempuan,Demam,Kelelahan,38.5,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+27,Laki-laki,Tidak Ada,Sehat,37.2,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+54,Laki-laki,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+37,Laki-laki,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+52,Laki-laki,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+59,Laki-laki,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+25,Laki-laki,Nyeri Dada,Sakit Parah,39.1,Tidak,Ya,Hipertensi,Lemas,Tinggi
+20,Laki-laki,Pusing,Kelelahan,38.3,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+73,Perempuan,Demam,Sakit Ringan,37.6,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+75,Perempuan,Demam,Sakit Ringan,38.3,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+72,Laki-laki,Mual,Kelelahan,37.7,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+77,Perempuan,Pusing,Sakit Ringan,38.5,Tidak,Tidak,Diabetes,Dehidrasi,Sedang
+24,Laki-laki,Demam,Sakit Ringan,37.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+50,Laki-laki,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+40,Laki-laki,Demam,Sakit Ringan,38.2,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+51,Perempuan,Demam,Sakit Parah,39.0,Tidak,Ya,Jantung,Dehidrasi,Tinggi
+20,Laki-laki,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+69,Perempuan,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+56,Laki-laki,Nyeri Dada,Sakit Parah,38.5,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+79,Laki-laki,Tidak Ada,Sehat,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+29,Perempuan,Demam,Kelelahan,37.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+78,Laki-laki,Pusing,Sakit Ringan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+31,Perempuan,Tidak Ada,Kelelahan,37.5,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+22,Perempuan,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+47,Laki-laki,Mual,Sakit Ringan,37.6,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+62,Perempuan,Mual,Sakit Ringan,37.7,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+61,Perempuan,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+64,Perempuan,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+29,Perempuan,Tidak Ada,Sehat,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+71,Perempuan,Demam,Sakit Parah,38.5,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+40,Laki-laki,Nyeri Dada,Sakit Parah,39.1,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+61,Perempuan,Demam,Kelelahan,38.4,Ya,Tidak,Diabetes,Dehidrasi,Sedang
+76,Laki-laki,Tidak Ada,Sehat,37.5,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+23,Laki-laki,Demam,Sakit Ringan,37.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+30,Laki-laki,Demam,Sakit Parah,40.6,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+49,Perempuan,Demam,Sakit Parah,39.4,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+37,Perempuan,Demam,Sakit Ringan,38.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+74,Laki-laki,Mual,Sakit Ringan,37.6,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+73,Laki-laki,Tidak Ada,Sehat,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+25,Perempuan,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+58,Perempuan,Mual,Sakit Ringan,38.4,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+62,Perempuan,Demam,Sakit Parah,39.8,Tidak,Ya,Jantung,Dehidrasi,Tinggi
+45,Laki-laki,Pusing,Kelelahan,38.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+56,Perempuan,Demam,Sakit Parah,39.4,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+33,Perempuan,Mual,Kelelahan,38.5,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+35,Perempuan,Mual,Sakit Ringan,38.1,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+72,Perempuan,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+45,Perempuan,Mual,Sakit Ringan,38.1,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+74,Perempuan,Demam,Sakit Parah,39.8,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+83,Laki-laki,Demam,Sakit Parah,38.9,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+32,Laki-laki,Mual,Sakit Ringan,37.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+80,Laki-laki,Mual,Sakit Ringan,37.5,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+80,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+79,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+34,Laki-laki,Pusing,Sakit Ringan,37.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+47,Perempuan,Tidak Ada,Kelelahan,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+53,Laki-laki,Demam,Sakit Ringan,38.3,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+42,Laki-laki,Tidak Ada,Sehat,37.4,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+33,Laki-laki,Pusing,Sakit Ringan,38.3,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+23,Perempuan,Mual,Sakit Ringan,37.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+32,Laki-laki,Nyeri Dada,Sakit Parah,40.4,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+39,Laki-laki,Demam,Sakit Parah,38.6,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+36,Perempuan,Tidak Ada,Sehat,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+24,Laki-laki,Pusing,Sakit Ringan,38.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+58,Perempuan,Nyeri Dada,Sakit Parah,40.1,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+49,Laki-laki,Nyeri Dada,Sakit Parah,40.1,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+39,Laki-laki,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+23,Laki-laki,Tidak Ada,Sehat,37.2,Tidak,Tidak,Asma,Tidak Ada,Rendah
+18,Laki-laki,Mual,Sakit Ringan,38.3,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+23,Laki-laki,Pusing,Kelelahan,37.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+44,Perempuan,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+52,Laki-laki,Pusing,Sakit Ringan,38.5,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+78,Laki-laki,Mual,Sakit Ringan,38.4,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+21,Perempuan,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+67,Laki-laki,Tidak Ada,Sehat,37.3,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+77,Perempuan,Demam,Sakit Ringan,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+29,Perempuan,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+22,Perempuan,Tidak Ada,Sehat,36.7,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+43,Perempuan,Demam,Kelelahan,37.7,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+34,Laki-laki,Tidak Ada,Kelelahan,36.2,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+42,Laki-laki,Pusing,Sakit Ringan,37.8,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+59,Perempuan,Demam,Sakit Parah,39.8,Tidak,Tidak,Tidak Ada,Lemas,Tinggi
+46,Laki-laki,Mual,Kelelahan,37.5,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+46,Perempuan,Nyeri Dada,Sakit Parah,39.3,Tidak,Ya,Jantung,Lemas,Tinggi
+79,Perempuan,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+50,Laki-laki,Demam,Sakit Ringan,37.6,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+74,Laki-laki,Nyeri Dada,Sakit Parah,38.7,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+26,Laki-laki,Demam,Sakit Parah,40.0,Tidak,Ya,Diabetes,Lemas,Tinggi
+25,Laki-laki,Nyeri Dada,Sakit Parah,40.4,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+67,Perempuan,Tidak Ada,Kelelahan,37.2,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+21,Perempuan,Nyeri Dada,Sakit Parah,38.5,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+83,Perempuan,Tidak Ada,Sehat,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+49,Laki-laki,Mual,Sakit Ringan,37.9,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+78,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+25,Laki-laki,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Diabetes,Tidak Ada,Rendah
+62,Laki-laki,Demam,Kelelahan,37.6,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+60,Perempuan,Nyeri Dada,Sakit Parah,39.6,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+18,Laki-laki,Demam,Sakit Ringan,38.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+69,Laki-laki,Nyeri Dada,Sakit Parah,39.4,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+74,Laki-laki,Pusing,Kelelahan,38.5,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+46,Perempuan,Pusing,Kelelahan,37.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+20,Laki-laki,Demam,Sakit Parah,40.8,Tidak,Tidak,Diabetes,Lemas,Tinggi
+65,Perempuan,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Jantung,Tidak Ada,Sedang
+26,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+66,Perempuan,Tidak Ada,Sehat,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+42,Perempuan,Nyeri Dada,Sakit Parah,40.5,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+28,Perempuan,Demam,Sakit Parah,39.5,Tidak,Tidak,Hipertensi,Dehidrasi,Tinggi
+40,Perempuan,Mual,Sakit Ringan,38.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+44,Laki-laki,Mual,Sakit Ringan,37.7,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+50,Laki-laki,Mual,Kelelahan,37.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+75,Perempuan,Pusing,Kelelahan,37.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+51,Laki-laki,Tidak Ada,Sehat,36.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+53,Laki-laki,Nyeri Dada,Sakit Parah,39.0,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+56,Perempuan,Demam,Sakit Parah,40.6,Tidak,Ya,Hipertensi,Dehidrasi,Tinggi
+54,Perempuan,Mual,Kelelahan,38.1,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+47,Laki-laki,Demam,Sakit Ringan,38.1,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+28,Perempuan,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+44,Perempuan,Mual,Kelelahan,38.1,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+63,Perempuan,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+59,Laki-laki,Demam,Sakit Parah,40.9,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+44,Perempuan,Demam,Sakit Ringan,37.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+39,Laki-laki,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+21,Laki-laki,Demam,Sakit Ringan,37.7,Ya,Tidak,Jantung,Dehidrasi,Sedang
+25,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+68,Laki-laki,Pusing,Sakit Ringan,38.2,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+57,Perempuan,Demam,Sakit Parah,39.9,Tidak,Ya,Hipertensi,Dehidrasi,Tinggi
+53,Laki-laki,Nyeri Dada,Sakit Parah,39.5,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+76,Perempuan,Mual,Sakit Ringan,38.4,Tidak,Tidak,Hipertensi,Dehidrasi,Sedang
+40,Perempuan,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+67,Laki-laki,Tidak Ada,Sehat,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+48,Laki-laki,Mual,Kelelahan,38.4,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+65,Laki-laki,Tidak Ada,Kelelahan,37.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+75,Laki-laki,Mual,Sakit Ringan,37.6,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+42,Perempuan,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+59,Perempuan,Pusing,Sakit Ringan,37.7,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+38,Laki-laki,Demam,Sakit Parah,38.8,Tidak,Ya,Hipertensi,Lemas,Tinggi
+19,Perempuan,Mual,Kelelahan,37.5,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+67,Perempuan,Nyeri Dada,Sakit Parah,39.4,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+48,Laki-laki,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+42,Laki-laki,Tidak Ada,Sehat,36.3,Tidak,Tidak,Jantung,Tidak Ada,Rendah
+39,Laki-laki,Demam,Kelelahan,38.1,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+72,Laki-laki,Pusing,Sakit Ringan,37.5,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+76,Laki-laki,Tidak Ada,Kelelahan,36.1,Tidak,Tidak,Diabetes,Tidak Ada,Sedang
+23,Laki-laki,Tidak Ada,Kelelahan,37.3,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+31,Laki-laki,Demam,Sakit Ringan,38.1,Ya,Tidak,Tidak Ada,Dehidrasi,Sedang
+40,Perempuan,Demam,Sakit Parah,38.5,Tidak,Tidak,Hipertensi,Lemas,Tinggi
+82,Laki-laki,Tidak Ada,Kelelahan,36.3,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+48,Perempuan,Demam,Sakit Parah,39.4,Tidak,Ya,Hipertensi,Lemas,Tinggi
+66,Laki-laki,Tidak Ada,Kelelahan,37.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+60,Laki-laki,Tidak Ada,Kelelahan,36.4,Tidak,Tidak,Hipertensi,Tidak Ada,Rendah
+54,Laki-laki,Demam,Kelelahan,37.7,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+66,Perempuan,Nyeri Dada,Sakit Parah,39.7,Tidak,Ya,Hipertensi,Lemas,Tinggi
+44,Laki-laki,Tidak Ada,Sehat,36.1,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+48,Laki-laki,Demam,Sakit Parah,39.0,Tidak,Ya,Tidak Ada,Lemas,Tinggi
+56,Perempuan,Pusing,Sakit Ringan,38.4,Tidak,Tidak,Asma,Dehidrasi,Sedang
+66,Laki-laki,Tidak Ada,Kelelahan,36.7,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+37,Perempuan,Tidak Ada,Kelelahan,36.0,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+37,Laki-laki,Pusing,Sakit Ringan,37.9,Tidak,Tidak,Tidak Ada,Tidak Ada,Sedang
+78,Laki-laki,Demam,Sakit Parah,39.8,Tidak,Tidak,Tidak Ada,Dehidrasi,Tinggi
+71,Perempuan,Mual,Kelelahan,38.1,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+67,Laki-laki,Demam,Sakit Ringan,38.4,Tidak,Tidak,Tidak Ada,Dehidrasi,Sedang
+25,Perempuan,Demam,Sakit Ringan,37.5,Ya,Tidak,Hipertensi,Tidak Ada,Sedang
+51,Perempuan,Pusing,Kelelahan,38.1,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+67,Perempuan,Demam,Sakit Parah,40.8,Tidak,Ya,Asma,Dehidrasi,Tinggi
+50,Perempuan,Tidak Ada,Kelelahan,36.8,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+70,Laki-laki,Tidak Ada,Sehat,36.2,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+52,Laki-laki,Pusing,Sakit Ringan,38.5,Ya,Tidak,Tidak Ada,Tidak Ada,Sedang
+71,Perempuan,Nyeri Dada,Sakit Parah,39.4,Tidak,Ya,Hipertensi,Dehidrasi,Tinggi
+41,Laki-laki,Nyeri Dada,Sakit Parah,38.6,Tidak,Ya,Diabetes,Dehidrasi,Tinggi
+70,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Hipertensi,Tidak Ada,Sedang
+28,Perempuan,Nyeri Dada,Sakit Parah,38.6,Tidak,Ya,Tidak Ada,Dehidrasi,Tinggi
+30,Laki-laki,Nyeri Dada,Sakit Parah,40.0,Tidak,Ya,Diabetes,Lemas,Tinggi
+84,Laki-laki,Tidak Ada,Kelelahan,36.6,Tidak,Tidak,Tidak Ada,Tidak Ada,Rendah
+80,Perempuan,Mual,Sakit Ringan,38.2,Ya,Tidak,Hipertensi,Dehidrasi,Sedang
+69,Perempuan,Tidak Ada,Sehat,36.9,Tidak,Tidak,Asma,Tidak Ada,Sedang

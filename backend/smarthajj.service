@@ -1,0 +1,18 @@
+[Unit]
+Description=Smart Hajj Monitor FastAPI Backend Service
+After=network.target mysql.service
+
+[Service]
+User=www-data
+Group=www-data
+WorkingDirectory=/www/wwwroot/app-haji-monitoring.my.id
+EnvironmentFile=/www/wwwroot/app-haji-monitoring.my.id/.env
+ExecStart=/www/wwwroot/app-haji-monitoring.my.id/venv/bin/uvicorn app:app --host 127.0.0.1 --port 8000
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=smarthajj
+
+[Install]
+WantedBy=multi-user.target
